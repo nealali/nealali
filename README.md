@@ -7,7 +7,7 @@
 - 🔬 PhD in Statistics & Data Science; ~5 years in **SAS / CDISC** statistical programming (SDTM · ADaM · TFL, oncology).
 - 🤖 I build **LLM/agent systems that produce regulated-grade clinical deliverables** under deterministic, auditable QC gates — *"validate the wrappers, not the brain."*
 - 📈 Background in Bayesian hierarchical / item-response-theory modeling for patient-reported outcomes.
-- 🐍 Python · DuckDB · FastAPI · React · LangGraph · Claude Agent SDK · R (pharmaverse).
+- 🐍 Python · DuckDB · FastAPI · React · LangGraph · Claude Agent SDK · SAS · R (pharmaverse).
 
 🌐 **Portfolio & live demos → https://nealali.github.io**
 📫 n.bousaibah@gmail.com · [LinkedIn](https://www.linkedin.com/in/nasser-a-499b4194/)
